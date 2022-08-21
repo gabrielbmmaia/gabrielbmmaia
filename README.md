@@ -12,6 +12,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbmmaia&layout=compact&langs_count=168&theme=dark"/>
 </div>
 
+
+## <div align="center"> Tecnologias <br></div>
+
+
 <div align="center" style="display: inline_block"><br>
    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=55 height=65 />
    <img alt="Java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
