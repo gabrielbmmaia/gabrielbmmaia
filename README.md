@@ -17,7 +17,7 @@
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbmmaia&theme=dark"/>
 </div>
 
-## <div align="center"> Tecnologias <br></div>
+<h2 align="center"> Tecnologias <br></h2>
 
 
 <div align="center" style="display: inline_block"><br>
