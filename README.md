@@ -1,7 +1,23 @@
-### Bem-Vindo, eu sou Gabriel Maia! 👋
+<h1 align="center"> Bem-Vindo(a), eu sou Gabriel Maia! 👋 </h1>
 
 🔥 Desenvolvedor Android <br>
 
+Sou autodidata e gosto de resolver problemas! Entro em contato até com pessoas de outros países pra conseguir a solução.
+Hoje estou trabalhando em um projeto autônomo de um aplicativo de filmes com planos para ser postado na PlayStore.
+
+Algumas tecnologias que domino:
+- Linguagens: Kotlin & Java
+- SDK Android
+- Git
+- Jetpack Components ( Room, Coroutines, Flow, ViewModel )
+- Retrofit & okHttp
+- Koin / Dagger Hilt
+- Arquiteturas: MVVM & Clean
+- Fragments
+- Navigation Components
+- Paging3
+
+Diariamente crio aplicativo onde utilizo dessas tecnologias e coloco aqui no meu GitHub, confira!
 
 ##
 
@@ -9,11 +25,6 @@
   <a href="https://github.com/gabrielbmmaia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielbmmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbmmaia&layout=compact&langs_count=168&theme=dark"/>
-</div>
-
-<br><div align = "center">
-<a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbmmaia&theme=dark"/>
 </div>
 
 <h2 align="center"> Tecnologias <br></h2>
