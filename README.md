@@ -7,6 +7,7 @@ Hoje estou trabalhando em um projeto autônomo de um aplicativo de filmes com pl
 
 Algumas tecnologias que domino:
 - Linguagens: Kotlin & Java
+- Jetpack Compose
 - SDK Android
 - Git
 - Jetpack Components ( Room, Coroutines, Flow, ViewModel )
