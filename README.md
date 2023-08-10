@@ -2,8 +2,7 @@
 
 🔥 Desenvolvedor Android <br>
 
-Sou autodidata e gosto de resolver problemas! Entro em contato até com pessoas de outros países pra conseguir a solução.
-Hoje estou trabalhando em um projeto autônomo de um aplicativo de filmes com planos para ser postado na PlayStore.
+Sou autodidata, sempre em busca de novos conhecimentos e sem problemas em aprender novas tecnologias ou trabalhar em novas equipes. Neste momento, estou focado em aprender mais sobre Flutter para abrir novas oportunidades no mercado de trabalho. A familiaridade que já tenho como desenvolvedor Android tem acelerado bastante esse processo.
 
 Algumas tecnologias que domino:
 - Linguagens: Kotlin & Java
