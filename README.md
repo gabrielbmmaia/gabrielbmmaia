@@ -1,23 +1,26 @@
 <h1 align="center"> Bem-Vindo(a), eu sou Gabriel Maia! 👋 </h1>
 
-🔥 Desenvolvedor Android <br>
+• Sou Desenvolvedor Mobile com experiência em transformar ideias em soluções reais e eficientes •
 
-Sou autodidata, sempre em busca de novos conhecimentos e sem problemas em aprender novas tecnologias ou trabalhar em novas equipes. Neste momento, estou focado em aprender mais sobre Flutter para abrir novas oportunidades no mercado de trabalho. A familiaridade que já tenho como desenvolvedor Android tem acelerado bastante esse processo.
+Minha especialização envolve tanto o desenvolvimento Android nativo quanto o uso do Flutter, o que me permite atuar em uma variedade de plataformas e criar experiências de usuário de alta qualidade. Com um perfil autodidata e sempre em busca de novos conhecimentos, estou constantemente aprimorando minhas habilidades e explorando novas ferramentas para entregar o melhor em cada projeto.
 
-Algumas tecnologias que domino:
-- Linguagens: Kotlin & Java
-- Jetpack Compose
-- SDK Android
-- Git
-- Jetpack Components ( Room, Coroutines, Flow, ViewModel )
-- Retrofit & okHttp
-- Koin / Dagger Hilt
-- Arquiteturas: MVVM & Clean
-- Fragments
-- Navigation Components
-- Paging3
+Além da experiência prática, sou adepto das melhores práticas de desenvolvimento, como Clean Architecture, MVVM e Modularização, garantindo que as soluções sejam escaláveis, manuteníveis e fáceis de evoluir. Meu foco é sempre entregar produtos que atendam às necessidades do usuário e do negócio, mantendo a qualidade e o desempenho como prioridade.
 
-Diariamente crio aplicativo onde utilizo dessas tecnologias e coloco aqui no meu GitHub, confira!
+Tecnologias que utilizo com frequência:
+
+• Linguagens: Kotlin, Dart<br>
+• UI: XML, Compose, Widgets<br>
+• Injeção de Dependência: Koin, Dagger Hilt, Get_it, Modular<br>
+• Gerenciamento de Estados: Bloc, Cubit, Provider<br>
+• Firebase: Authentication, Firestore, Storage<br>
+• Armazenamento Local: Room, SQFlite, Shared Preferences, Hive<br>
+• Chamada de API: Retrofit, HTTP, Dio<br>
+• Testes Unitários: JUnit, Mockk, Flutter Test, Mocktail<br>
+• Arquitetura: Clean Architecture, MVVM, Modularização<br>
+
+Atualmente, continuo focado em melhorar minhas habilidades no Flutter, desenvolvendo soluções para diferentes necessidades de mercado. Todos os meus projetos estão disponíveis no meu GitHub, onde compartilho meu trabalho e aprendizados.
+
+Se você tem uma ideia ou projeto que gostaria de transformar em realidade, estou à disposição para colaborar e criar soluções que atendam às suas necessidades.
 
 ##
 
@@ -32,8 +35,9 @@ Diariamente crio aplicativo onde utilizo dessas tecnologias e coloco aqui no meu
 
 <div align="center" style="display: inline_block"><br>
    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=45 height=55 />
-   <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
    <img alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+   <img alt="Dart" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg"/>
+   <img alt="Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg"/>
    <img alt="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"">
 </div>
 
