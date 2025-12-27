@@ -1,26 +1,25 @@
 <h1 align="center"> Bem-Vindo(a), eu sou Gabriel Maia! 👋 </h1>
 
-• Sou Desenvolvedor Mobile com experiência em transformar ideias em soluções reais e eficientes •
+Desenvolvedor Mobile Flutter
 
-Minha especialização envolve tanto o desenvolvimento Android nativo quanto o uso do Flutter, o que me permite atuar em uma variedade de plataformas e criar experiências de usuário de alta qualidade. Com um perfil autodidata e sempre em busca de novos conhecimentos, estou constantemente aprimorando minhas habilidades e explorando novas ferramentas para entregar o melhor em cada projeto.
+Acredito que a excelência de um aplicativo nasce no equilíbrio entre uma engenharia robusta e uma experiência de uso imersiva. Minha atuação vai além do código: foco em criar produtos digitais que sejam resilientes, escaláveis e encantadores para o usuário final.
 
-Além da experiência prática, sou adepto das melhores práticas de desenvolvimento, como Clean Architecture, MVVM e Modularização, garantindo que as soluções sejam escaláveis, manuteníveis e fáceis de evoluir. Meu foco é sempre entregar produtos que atendam às necessidades do usuário e do negócio, mantendo a qualidade e o desempenho como prioridade.
+🚀 Engenharia e Arquitetura Minha abordagem técnica é rigorosa e focada em longevidade. Tenho sólida experiência em arquitetura Offline-First, garantindo que o aplicativo funcione perfeitamente mesmo em cenários de conectividade instável. Atuei em projetos complexos, incluindo ecossistemas Whitelabel (onde uma base de código atende múltiplos clientes) e refatoração estratégica de sistemas legados, sempre utilizando Clean Architecture e MVVM para evitar dívida técnica.
 
-Tecnologias que utilizo com frequência:
+✨ Interface e Experiência (UI/UX) No front-end, trago um diferencial na construção de interfaces ricas. Utilizo micro-animações, feedback tátil e transições fluidas para transformar layouts estáticos em experiências interativas e acolhedoras. Meu objetivo é que a navegação seja tão intuitiva quanto bonita.
 
-• Linguagens: Kotlin, Dart<br>
-• UI: XML, Compose, Widgets<br>
-• Injeção de Dependência: Koin, Dagger Hilt, Get_it, Modular<br>
-• Gerenciamento de Estados: Bloc, Cubit, Provider<br>
-• Firebase: Authentication, Firestore, Storage<br>
-• Armazenamento Local: Room, SQFlite, Shared Preferences, Hive<br>
-• Chamada de API: Retrofit, HTTP, Dio<br>
-• Testes Unitários: JUnit, Mockk, Flutter Test, Mocktail<br>
-• Arquitetura: Clean Architecture, MVVM, Modularização<br>
+🛠 Competências Técnicas
 
-Atualmente, continuo focado em melhorar minhas habilidades no Flutter, desenvolvendo soluções para diferentes necessidades de mercado. Todos os meus projetos estão disponíveis no meu GitHub, onde compartilho meu trabalho e aprendizados.
+Linguagens: Dart (Avançado), Kotlin (Intermediário).
+Mobile Tech: Flutter, Android Nativo, Composição de Widgets, Design System.
+Gerenciamento de Estado: Bloc / Cubit (Especialista), Provider, Riverpod, MobX.
+Arquitetura: Clean Architecture, MVVM, Modularização, SOLID, Offline-first Strategy.
+Dados & Backend: Firebase (Auth, Firestore, Storage, Crashlytics), Supabase, SQL (Room/SQFlite), Hive, SharedPreferences, Isar.
+Conectividade: RESTful APIs, Dio, Retrofit, HTTP.
+Qualidade: Testes Unitários (Mocktail, Mockk, Flutter Test).
+Monetização: RevenueCat, In-App Purchase, AdMob.
 
-Se você tem uma ideia ou projeto que gostaria de transformar em realidade, estou à disposição para colaborar e criar soluções que atendam às suas necessidades.
+📬 Contato: gbmmaia.contato@gmail.com
 
 ##
 
@@ -43,7 +42,7 @@ Se você tem uma ideia ou projeto que gostaria de transformar em realidade, esto
 
 <br><div align = "center">
   <a href="https://www.instagram.com/gbmatosmaia/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielmaia96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gbmmaia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:gbmmaia.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
