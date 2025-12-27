@@ -10,14 +10,14 @@ Acredito que a excelência de um aplicativo nasce no equilíbrio entre uma engen
 
 🛠 Competências Técnicas
 
-Linguagens: Dart (Avançado), Kotlin (Intermediário).
-Mobile Tech: Flutter, Android Nativo, Composição de Widgets, Design System.
-Gerenciamento de Estado: Bloc / Cubit (Especialista), Provider, Riverpod, MobX.
-Arquitetura: Clean Architecture, MVVM, Modularização, SOLID, Offline-first Strategy.
-Dados & Backend: Firebase (Auth, Firestore, Storage, Crashlytics), Supabase, SQL (Room/SQFlite), Hive, SharedPreferences, Isar.
-Conectividade: RESTful APIs, Dio, Retrofit, HTTP.
-Qualidade: Testes Unitários (Mocktail, Mockk, Flutter Test).
-Monetização: RevenueCat, In-App Purchase, AdMob.
+**Linguagens:** Dart (Avançado), Kotlin (Intermediário). <br>
+**Mobile Tech:** Flutter, Android Nativo, Composição de Widgets, Design System. <br>
+**Gerenciamento de Estado:** Bloc / Cubit (Especialista), Provider, Riverpod, MobX. <br>
+**Arquitetura:** Clean Architecture, MVVM, Modularização, SOLID, Offline-first Strategy. <br>
+**Dados & Backend:** Firebase (Auth, Firestore, Storage, Crashlytics), Supabase, SQL (Room/SQFlite), Hive, SharedPreferences, Isar. <br>
+**Conectividade:** RESTful APIs, Dio, Retrofit, HTTP. <br>
+**Qualidade:** Testes Unitários (Mocktail, Mockk, Flutter Test). <br>
+**Monetização:** RevenueCat, In-App Purchase, AdMob. <br>
 
 📬 Contato: gbmmaia.contato@gmail.com
 
